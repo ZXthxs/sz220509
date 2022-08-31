@@ -30,7 +30,7 @@ public class JedisDemo
 
         //⑤关闭连接
         jedis.close();
-
+        //你好啊~
 
     }
 
