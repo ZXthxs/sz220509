@@ -3,7 +3,7 @@ bbbbb
 ccccc
 ddd
 ee
-<<<<<<< HEAD
+
 我是mster我说了算
 
 我是test2!
